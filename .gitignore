@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# my ignores
+/archive
+**/Assessment Information/
+**/output/2019 - original project files
+*.Rproj
+*.docx
